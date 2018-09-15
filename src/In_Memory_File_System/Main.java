@@ -43,5 +43,5 @@ public class Main {
     }
 
 
-    //Todo : Future Goal : User Tree Ds Like BST etc.
+    //Todo : Future Goal : Use Tree Ds Like BST
 }
