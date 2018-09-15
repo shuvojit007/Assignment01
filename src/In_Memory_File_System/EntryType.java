@@ -27,7 +27,9 @@ public abstract class EntryType {
     }
 
     public boolean delete() {
-        if (parent == null) return false;
+        if (parent == null){
+            return false;
+        }
         return parent.deleteEntry(this);
     }
 
